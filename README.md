@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Semester 6 student specializing in **AI & Data Science**, currently focused on building a strong foundation in data analytics.
+I'm a Semester 7 student specializing in **AI & Data Science**, currently focused on building a strong foundation in data analytics.
 
 - 🎓 Pursuing B.Tech CSE (AI & DS) at **ITM SLS Baroda University**
 - 📊 Enrolled in **IIT Mandi TIH × Coding Ninjas** — 6-month Data Analytics program *(NSDC-approved)*
@@ -75,8 +75,8 @@ I'm a Semester 6 student specializing in **AI & Data Science**, currently focuse
 
 ```text
 ✅ Analytics & Excel          ████████████████████  Done
-🔄 Data Visualization (BI)    ████████░░░░░░░░░░░░  In Progress
-🔒 SQL for Data Analysis      ░░░░░░░░░░░░░░░░░░░░  Starts 30 May 2026
+✅ Data Visualization (BI)    ████████████████████  Done
+🔄 SQL for Data Analysis      ███████░░░░░░░░░░░░░  In Progress
 🔒 Programming in Python      ░░░░░░░░░░░░░░░░░░░░  Starts 25 Jul 2026
 ```
 
